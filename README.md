@@ -4,7 +4,11 @@ Sistema open-source para gerenciamento de pessoas que tenha intuito e pensamento
 
 # Funcionalidades Básicas
 
-Criar uma área de escrita 
+### Login e senha ou Autenticador google
+
+### Criar área para digitar o texto
+
+
 *
 *
 *
