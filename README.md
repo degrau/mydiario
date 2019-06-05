@@ -4,11 +4,10 @@ Sistema open-source para gerenciamento de pessoas que tenha intuito e pensamento
 
 # Funcionalidades Básicas
 
-### Login e senha ou Autenticador google
+* Login e senha ou Autenticador google
+![Login](https://photos.google.com/photo/AF1QipM68P-CqTNtOv3g1UW2sHQeAHwl_hhJ6eXaJ4SM)
 
-### Criar área para digitar o texto
-
-
+* Criar área para digitar o texto
 *
 *
 *
