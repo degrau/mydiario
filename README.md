@@ -4,10 +4,12 @@ Sistema open-source para gerenciamento de pessoas que tenha intuito e pensamento
 
 # Funcionalidades Básicas
 
-* Login e senha ou Autenticador google
-![Login](https://photos.google.com/photo/AF1QipM68P-CqTNtOv3g1UW2sHQeAHwl_hhJ6eXaJ4SM)
+Login
+Cadastro
+Criar área para adicionar conteúdo é importante que tenha data.
+Opção de ver outros historicos
+![Exemplos do Front](https://github.com/degrau/mydiario.wiki.git)
 
-* Criar área para digitar o texto
 *
 *
 *
