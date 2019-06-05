@@ -5,12 +5,21 @@ Sistema open-source para gerenciamento de pessoas que tenha intuito e pensamento
 # Funcionalidades Básicas
 
 Login
+
+
+
+
 Cadastro
+
+
+
 Criar área para adicionar conteúdo é importante que tenha data.
+
+
+
 Opção de ver outros historicos
 
-
-![Exemplos do Front](https://github.com/degrau/mydiario.wiki.git)
+![Wiki](https://github.com/degrau/mydiario/wiki)
 
 *
 *
