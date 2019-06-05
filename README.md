@@ -4,7 +4,7 @@ Sistema open-source para gerenciamento de pessoas que tenha intuito e pensamento
 
 # Funcionalidades Básicas
 
-
+Criar uma área de escrita 
 *
 *
 *
