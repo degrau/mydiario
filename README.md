@@ -4,8 +4,7 @@ Sistema open-source para gerenciamento de pessoas que tenha intuito e pensamento
 
 # Funcionalidades Básicas
 
-Login
-
+*Login
 
 
 
@@ -18,6 +17,10 @@ Criar área para adicionar conteúdo é importante que tenha data.
 
 
 Opção de ver outros historicos
+
+
+
+Front-end
 
 ![Wiki](https://github.com/degrau/mydiario/wiki)
 
